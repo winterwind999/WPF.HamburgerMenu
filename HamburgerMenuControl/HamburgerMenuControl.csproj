@@ -7,13 +7,10 @@
   </PropertyGroup>
 
 	<PropertyGroup>
-		<PackageId>WPF.HamburgerMenu</PackageId>
-		<Version>1.0.0</Version>
-		<Authors>
-			<Author>Hadeon</Author>
-			<Author>SingletonSean</Author>
-		</Authors>
-		<PackageProjectUrl></PackageProjectUrl>
+		<PackageId>HamburgerMenu.WPF</PackageId>
+		<Version>1.0.1</Version>
+		<Authors>Hadeon, SingletonSean</Authors>
+		<PackageProjectUrl>https://github.com/theonewhodoesntexist/WPF.HamburgerMenu.git</PackageProjectUrl>
 		<PackageTags>wpf, navbar, hamburger, menu, nav</PackageTags>
 		<Description>Hambuger Menu for WPF made by SingletonSean</Description>
 	</PropertyGroup>

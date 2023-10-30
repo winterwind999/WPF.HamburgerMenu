@@ -40,7 +40,7 @@ namespace HamburgerMenuControl
 
         private void OpenMenuAnimated()
         {
-            double contentWidth = GetDesiredContentWidth();
+            double contentWidth = GetDesiredContentWidth() + 10;
 
             DoubleAnimation openingAnimation = new DoubleAnimation(contentWidth, OpenClosedDuration);
             BeginAnimation(WidthProperty, openingAnimation);

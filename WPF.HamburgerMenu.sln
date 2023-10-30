@@ -5,7 +5,7 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamburgerMenuControl", "HamburgerMenuControl\HamburgerMenuControl.csproj", "{8D1A347F-B42D-4DC0-8D55-2D759F321B5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HamburgerMenuWPF", "HamburgerMenuWPF\HamburgerMenuWPF.csproj", "{65E2A055-EDB7-47F8-8002-FEAABD6C9C14}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HamburgerMenuWPF", "HamburgerMenuWPF\HamburgerMenuWPF.csproj", "{B3090321-5B4C-47CF-813D-FF05412B49B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{8D1A347F-B42D-4DC0-8D55-2D759F321B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D1A347F-B42D-4DC0-8D55-2D759F321B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D1A347F-B42D-4DC0-8D55-2D759F321B5E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{65E2A055-EDB7-47F8-8002-FEAABD6C9C14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{65E2A055-EDB7-47F8-8002-FEAABD6C9C14}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{65E2A055-EDB7-47F8-8002-FEAABD6C9C14}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{65E2A055-EDB7-47F8-8002-FEAABD6C9C14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3090321-5B4C-47CF-813D-FF05412B49B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3090321-5B4C-47CF-813D-FF05412B49B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3090321-5B4C-47CF-813D-FF05412B49B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3090321-5B4C-47CF-813D-FF05412B49B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
